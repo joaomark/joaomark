@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi 👋,
+I'm João Victor, I'm a software engineer 👨‍💻 who is passionate about mobile technologies and open source.
+
+🔭 I’m currently working on Android Apps
+🌱 I’m currently learning Dart
+💬 Ask me about: tech, memes, anime
+⚡ Languages: Dart, JavaScript, CSS
