@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://github.com/joaomark
-
 Hi 👋, I'm João
 I Love to Build Android App Ui And More.
-joaomark
 
 🔭 I’m currently working on Chat Aplication Project
 
@@ -28,9 +25,3 @@ joaomark
 💬 Ask me about Flutter Android 
 
 📫 How to reach me https://www.instagram.com/_joaomark/
-
-android dotnet flutter
-
- joaomark
-
-joaomark
