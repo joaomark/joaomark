@@ -15,10 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi 👋,
-I'm João Victor, I'm a software engineer 👨‍💻 who is passionate about mobile technologies and open source.
+https://github.com/joaomark
 
-🔭 I’m currently working on Android Apps
-🌱 I’m currently learning Dart
-💬 Ask me about: tech, memes, anime
-⚡ Languages: Dart, JavaScript, CSS
+Hi 👋, I'm João
+I Love to Build Android App Ui And More.
+joaomark
+
+🔭 I’m currently working on Chat Aplication Project
+
+🌱 I’m currently learning About Android Database
+
+💬 Ask me about Flutter Android 
+
+📫 How to reach me https://www.instagram.com/_joaomark/
+
+android dotnet flutter
+
+ joaomark
+
+joaomark
